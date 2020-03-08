@@ -1,6 +1,6 @@
 # API-Challenge
 
-I used Python, Pandas, Matplotlib and [OpenWeatherMap API](https://openweathermap.org/api) to visually analyze the weather of 500 random cities globally.
+I used **Python, Pandas, NumPy, DateTime, Matplotlib and [OpenWeatherMap API](https://openweathermap.org/api)** to visually analyze the weather of 500 random cities globally.
 
 1. I created lists of 500 random lat and long coordinates and found the nearest cities using [CitiPy](https://github.com/wingchen/citipy).
 2. I queried [OpenWeatherMap API](https://openweathermap.org/api) to retrieve the JSON data for each city, and complete a dataframe. The results were also saved to a CSV.
